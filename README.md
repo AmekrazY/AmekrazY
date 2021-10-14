@@ -1,7 +1,7 @@
 <h3 align="center">👋 Salut tout le monde 👋</h3>
 <h5 align="left">Je m’appelle Yassine, j’ai 26 ans. Je suis Développeur Web spécialisé Front End en formation à l’Institut Solacroup à Dinard depuis Septembre. Passionné par l’informatique et plus particulièrement par la programmation et le développement de logiciel et site web, mais aussi par le sport et la musique.</h5>
 
-- 📫    yassine.amekraz1108@gmail.com 
+- 📫         yassine.amekraz1108@gmail.com 
 
 Langagues :
  
