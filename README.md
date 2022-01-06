@@ -19,6 +19,6 @@
 
 <h4 align="left">Réseaux :</h3>
 
-[<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/https://github.com/AmekrazY)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yassine-amekraz-05235b1a9//)  
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/AmekrazY)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yassine-amekraz/)  
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmekrazY" alt="AmekrazY" /></a> </p>
