@@ -1,5 +1,5 @@
 <h3 align="center">👋 Salut tout le monde 👋</h3>
-<h6 align="left" color="black">Je m’appelle Yassine. Je suis Développeur Web spécialisé Front End en formation à l’Institut Solacroup à Dinard depuis Septembre 2021. Je suis passionné par l’informatique et plus particulièrement par la programmation et le développement de logiciel et site web. D'origine Marocaine, j'habite St-Malo (35) depuis 2019 et partage mon temps libre entre le sport et la musique quand je ne suis pas connecté aux lagages de programation 😊.</h6>
+<h6 align="left" color="black">Je m’appelle Yassine. Je suis Développeur Web spécialisé Front End en formation à l’Institut Solacroup à Dinard depuis Septembre 2021. Je suis passionné par l’informatique et plus particulièrement par la programmation et le développement de logiciel et site web. D'origine Marocaine, j'habite St-Malo (35) depuis 2019 et partage mon temps libre entre le sport et la musique quand je ne suis pas connecté aux languages de programation 😊.</h6>
 
 - 📫         yassine.amekraz1108@gmail.com 
 
@@ -19,6 +19,6 @@
 
 <h4 align="left">Réseaux :</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AmekrazY)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yassine-amekraz-05235b1a9//)  
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/https://github.com/AmekrazY)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yassine-amekraz-05235b1a9//)  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quentiins" alt="AmekrazY" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmekrazY" alt="AmekrazY" /></a> </p>
