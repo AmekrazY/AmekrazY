@@ -5,7 +5,7 @@
 
 <h4 align="left">Maquettage :</h3>
 
-<p align="left"><a href="https://www.figma.com/" target="_blank"> <img src="https://luna1.co/802f24.jpg" alt="figma" width="40" height="40"/> </a><a href=" https://www.adobe.com/fr/products/xd.html" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611129.png?token=exp=1641467200~hmac=0e30420ed060cc0fd99289f8d4b76369" alt="adobexd" width="40" height="40"/> </a>
+<p align="left"><a href="https://www.figma.com/" target="_blank"> <img src="https://luna1.co/802f24.jpg" alt="figma" width="40" height="40"/> </a><a href=" https://www.adobe.com/fr/products/xd.html" target="_blank"> <img src="https://neo-form.fr/wp-content/uploads/2019/11/formation-adobe-xd.png" alt="adobexd" width="40" height="40"/> </a>
 
 <h4 align="left">Langages de programmation :</h3>
  
