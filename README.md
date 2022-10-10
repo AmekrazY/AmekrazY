@@ -1,5 +1,5 @@
-<h3 align="center">👋 Salut tout le monde 👋</h3>
-<h7 align="left" color="black">Développeur Web Front End. Je poursuis cette année mes études en formation licence concepteur développeur d'application à l’Institut Solacroup à Dinard. Je suis passionné par l’informatique et plus particulièrement par la programmation et le développement de logiciel et site web. D'origine Marocaine, j'habite St-Malo (35) depuis 2019 et partage mon temps libre entre le sport et la musique quand je ne suis pas connecté aux languages de programation 😊.</h7>
+<h3 align="center">👋 Hello 👋</h3>
+<h7 align="left" color="black">Développeur Web Front End. Je poursuis cette année mes études en formation licence concepteur développeur d'application à l’Institut Solacroup à Dinard. Je suis passionné par l’informatique et plus particulièrement par la programmation et le développement de logiciel et site web. D'origine Marocaine, j'habite St-Malo (35) et je partage mon temps libre entre le sport et la musique quand je ne suis pas connecté aux languages de programation 😊.</h7>
 
 - 📫         yassine.amekraz1108@gmail.com 
 
